@@ -61,6 +61,13 @@ export const verticalNavigationSuperAdmin = () => {
       subject: 'super_admin_partnership_requests'
     },
     {
+      title: 'energy_meter',
+      icon: 'mdi:gauge',
+      path: '/super_admin/energy_meter',
+      action: 'read',
+      subject: 'super_admin_energy_meter'
+    },
+    {
       title: 'permissions',
       icon: 'tabler:key',
       path: '/super_admin/permissions',

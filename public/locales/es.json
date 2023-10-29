@@ -95,6 +95,7 @@
   "description": "Descripción",
   "document_number": "Número del documento",
   "document_type": "Tipo de documento",
+  "energy_meter": "Medidor de energía",
   "edit": "Editar",
   "editor": "Editor",
   "edit_role": "Editar rol",
